@@ -1,0 +1,16 @@
+{
+  "content_scripts": [ {
+    "js":               [ "js/jquery-1.7.2.min.js", "js/jquery.fitvids.js", "js/stretch-the-video.js" ],
+    "css":              [ "css/style.css" ],
+    "matches":          [ "http://*/*" ],
+    "run_at": "document_end"
+  } ],
+  "icons":{
+    "48": "images/icon.png"
+  },
+  "converted_from_user_script": true,
+  "description":  "simple script for stretching video",
+  "manifest_version": 2,
+  "name":         "Stretch The Video",
+  "version":      "0.1"
+}
