@@ -1,8 +1,8 @@
 {
   "content_scripts": [ {
-    "js":               [ "js/jquery-1.7.2.min.js", "js/jquery.fitvids.js", "js/stretch-the-video.js" ],
+    "js":               [ "js/jquery-1.7.2.min.js", "js/stretch-the-video.js" ],
     "css":              [ "css/style.css" ],
-    "matches":          [ "http://*/*" ],
+    "matches":          [ "*://www.youtube.com/*", "*://vk.com/*", "*://megogo.net/*"  ],
     "run_at": "document_end"
   } ],
   "icons":{

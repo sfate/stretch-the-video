@@ -17,10 +17,11 @@ Tiny extension that allows you to strech online video to html's page inner size.
 
 ## About extension:
 
-* Based on modified [FitVids.js](https://github.com/davatron5000/FitVids.js)
+* Works at [youtube.com](http://youtube.com), [vk.com](http://vk.com) and [megogo.net](http://megogo.net)
+* Based on fully modified [FitVids.js](https://github.com/davatron5000/FitVids.js)
 * Original idea - [JaySneg](https://github.com/jaysneg)
 * Video on screenshots - [Eluveitie - Thousandfold](http://www.youtube.com/watch?v=ZwJcLZAy5AQ)
 
 ## [Changelog](https://github.com/Sfate/stretch-the-video/blob/master/changelog.md)
 
-## Version: 0.1 (2013-05-09)
+## Version: 0.1.1 (2013-05-09)
